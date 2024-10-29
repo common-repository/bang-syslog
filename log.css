@@ -1,0 +1,26 @@
+html{padding:0;margin:0;}
+body{background:#331229;background:-webkit-gradient(linear, left bottom, left top, color-stop(0, #331229), color-stop(1, #0d050b));background:-ms-linear-gradient(bottom, #331229, #0d050b);background:-moz-linear-gradient(center bottom, #331229 0%, #0d050b 100%);position:relative;overflow:hidden;padding:0;margin:0;}
+#log{position:absolute;padding:8px;margin:0;}
+#log div{padding-left:40px;text-indent:-40px;white-space:normal;}
+#fade{position:absolute;top:0;left:0;right:0;height:30px;padding:0 8px;text-align:right;line-height:24px;background:rgba(51, 18, 41, 0);background:-webkit-gradient(linear, left bottom, left top, color-stop(0, rgba(51, 18, 41, 0)), color-stop(1, rgba(0, 0, 0, 0.7)));background:-ms-linear-gradient(bottom, rgba(51, 18, 41, 0), rgba(0, 0, 0, 0.7));background:-moz-linear-gradient(center bottom, rgba(51, 18, 41, 0) 0%, rgba(0, 0, 0, 0.7) 100%);}
+#fade a.button{float:right;display:block;position:relative;background:#6008d0;background:-webkit-gradient(linear, left bottom, left top, color-stop(0, #49069f), color-stop(1, #7815f6));background:-ms-linear-gradient(bottom, #49069f, #7815f6);background:-moz-linear-gradient(center bottom, #49069f 0%, #7815f6 100%);border-top:1px solid #862ef7;border-bottom:1px solid #3e0586;border-radius:3px;padding:0 10px;line-height:24px;margin-top:8px;font-family:Arial;font-size:12px;font-weight:bold;color:white;cursor:pointer;-webkit-box-shadow:0 3px 4px rgba(0, 0, 0, 0.9);-moz-box-shadow:0 3px 4px rgba(0, 0, 0, 0.9);box-shadow:0 3px 4px rgba(0, 0, 0, 0.9);text-shadow:0px 1px 1px #33046e;}
+#resume-button,a#resume-button.button{display:none;}
+span.white{color:#f0f0f0;}
+span.black{color:black;}
+span.red{color:#f44;}
+span.green{color:#4e4;}
+span.blue{color:#66f;}
+span.cyan{color:#4ee;}
+span.yellow{color:#ee4;}
+span.magenta{color:#e4e;}
+span.white_bg{background:#f0f0f0;}
+span.black_bg{background:none;}
+span.red_bg{background:#c22;}
+span.green_bg{background:#2c2;}
+span.blue_bg{background:#22c;}
+span.cyan_bg{background:#2cc;}
+span.yellow_bg{background:#cc2;}
+span.magenta_bg{background:#c2c;}
+span.bold{font-weight:bold;}
+span.underlined{text-decoration:underline;}
+span.invisible{visibility:invisible;}
